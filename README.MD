@@ -18,7 +18,7 @@ Cart List With JavaScript
 <br>
 
 <p align="center">
-  <img alt="Instagram Clone" src="./assets/cart.gif" width="100%">
+  <img alt="Cart" src="./assets/cart.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
