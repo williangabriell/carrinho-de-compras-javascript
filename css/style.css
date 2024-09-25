@@ -2,6 +2,10 @@ body{
     background-color: #eeeeee;
 }
 
+.fa {
+    cursor: pointer;
+}
+
 .footer-background{
     background-color: rgb(204, 199, 199);
 }
